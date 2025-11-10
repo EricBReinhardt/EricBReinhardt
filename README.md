@@ -10,7 +10,6 @@ I'm a passionate Full Stack Developer from Brazil 🇧🇷, currently enroled in
 - **Testing**: Jest
 - **Version Control**: Git, GitHub
 - **UI/UX Design**: Figma
-- **Package Management**: npm
 
 
 ## 🌱 Let’s connect!
